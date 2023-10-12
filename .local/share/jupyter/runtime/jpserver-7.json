@@ -1,0 +1,13 @@
+{
+  "base_url": "/2023-autumn-ocean-215-a/user/dcord12/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 7,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "b0816c6c6569be2f4428d36acaed11cf21c61ad00b4e50e8",
+  "url": "http://jupyter-dcord12:8888/2023-autumn-ocean-215-a/user/dcord12/",
+  "version": "2.5.0"
+}
