@@ -75,3 +75,40 @@ git remote - v
 cd ~
 cd homework_1
 git remote -v
+cd ~ 
+git add . 
+git commit -m "homework 1"
+git push -u origin main
+chmod 400 id_ed25519
+git push -u origin main
+chmod 400 id_ed25519
+git push -u origin main
+chmod 400 id_ed25519.pub
+git push -u origin main
+chmod 600 id_ed25519
+git remote set url origin git@github.com:OCEAN-215-2023/homework_1.git
+git remote set url origin git@github.com:Dcord1212/homework_1.git
+git remote set-url origin git@github.com:Dcord1212/homework_1.git
+git add . 
+git status 
+git push -u origin main
+chmod 400 id_ed25519
+SHA256:vR80xyh2WwAE5UAwsdoKl8JbgMTIGFe9ck2wMqCn8Uc
+git push -u origin main
+SHA256:vR80xyh2WwAE5UAwsdoKl8JbgMTIGFe9ck2wMqCn8Uc
+git remote set url origin SHA256:vR80xyh2WwAE5UAwsdoKl8JbgMTIGFe9ck2wMqCn8Uc
+git push -u origin main
+git remote set-url origin git@github.com:Dcord1212/homework_1.git
+git branch -M main
+git add . 
+git commit -m "Homework 1"
+git push -u origin main
+cd homework_1
+cd ~ 
+homework_1
+cd homework_1
+git add . 
+git commit -m "Homework 1"
+git push -u origin main
+chmod 600 ~/.ssh/id_ed25519
+git push -u origin main
